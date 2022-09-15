@@ -1,6 +1,6 @@
 # todoapp-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the demo for ["Building Your First Single-Page Application in Vue"](https://tahazsh.com/blog/building-spa-in-vue/).
 
 ## Recommended IDE Setup
 
